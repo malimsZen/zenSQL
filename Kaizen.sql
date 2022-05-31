@@ -6,8 +6,6 @@ columnN_name columnN_data_type
 );
 
 
-
-
 CREATE TABLE faveParks(
     parkName VARCHAR(30),
     yearBuilt INT,
