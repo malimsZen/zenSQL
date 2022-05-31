@@ -1252,6 +1252,7 @@ CREATE DATABASE joinsDB;
 
 USE joinsDB;
 
+
 --  imagine that you run a factory and have decided to begin tracking information about your product line, employees on your sales team, and your company’s sales in an SQL database. You plan to start off with three tables, 
 -- the first of which will store information about your products.
 
